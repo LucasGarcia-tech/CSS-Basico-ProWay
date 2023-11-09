@@ -1,0 +1,71 @@
+.user {
+    background-color: blue;
+}
+
+.password {
+    background-color: cornflowerblue;
+}
+
+.quadrado-1 {
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+
+}
+
+.quadrado-2 {
+    background-color: darkgoldenrod;
+    height: 200px;
+    width: 200px;
+}
+
+.quadrado-3 {
+    background-color: rgb(226, 43, 162);
+    width: 225px;
+    height: 225px;
+
+
+}
+
+.quadrado-4 {
+    background-color: brown;
+    height: 250px;
+    width: 250px;
+}
+
+h3{
+    font-size: 40px;
+    color: rgb(12, 72, 51);
+}
+
+.feira h3{
+    color: cadetblue;
+}
+
+.feira  {
+    color: green;
+}
+
+.feira li{
+    color: darkgoldenrod;
+    background-color: rgb(159, 159, 164);
+}
+
+.limpeza h3{
+    color: brown;
+}
+
+.limpeza li{
+    color: blue;
+}
+
+.button{
+    background-color:#1ee2e7;
+    width: 110px;
+    height: 50px;
+    color: white;
+    border:none;
+    border-radius: 3px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
